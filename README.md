@@ -55,11 +55,11 @@ I just used JPGs and PNGs, nothing fancy. The video is MP4 because it works ever
 
 Here's what the website looks like:
 
-![Screenshot 1](picWebsite1.png)
+![Screenshot 1](Screenshot%202026-02-09%20195741.png)
 
-![Screenshot 2](picWebsite2.png)
+![Screenshot 2](Screenshot%202026-02-09%20195748.png)
 
-![Screenshot 3](picWebsite3.png)
+![Screenshot 3](Screenshot%202026-02-09%20195755.png)
 
 
 
