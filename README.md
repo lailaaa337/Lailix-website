@@ -1,6 +1,8 @@
-# Lailix Website
+# 🎬 LAILIX – Netflix-Inspired Streaming UI
 
-So basically this is my Netflix-inspired streaming website for college. I built it just with HTML and CSS, and it actually looks pretty clean. It's got a working header with navigation, a cool auto-playing video section, and a bunch of image galleries to display content. The whole thing has that dark Netflix vibe going.
+LAILIX is a Netflix-inspired streaming web interface built using HTML and CSS. 
+The project focuses on recreating a modern streaming platform UI with a clean layout, 
+interactive elements, and a cinematic hero section.
 
 ## What's In Here
 
@@ -53,11 +55,11 @@ I just used JPGs and PNGs, nothing fancy. The video is MP4 because it works ever
 
 Here's what the website looks like:
 
-![Screenshot 1](Screenshot%202026-02-09%20195741.png)
+![Screenshot 1](picWebsite1.png)
 
-![Screenshot 2](Screenshot%202026-02-09%20195748.png)
+![Screenshot 2](picWebsite2.png)
 
-![Screenshot 3](Screenshot%202026-02-09%20195755.png)
+![Screenshot 3](picWebsite3.png)
 
 
 
